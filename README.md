@@ -1,2 +1,2 @@
-# [hwang.eunb.it](http://hwang.eunb.it)
-Eunbit Hwang's Resume
+# [eunb.it/resume](http://eunb.it/resume)
+EunBit Hwang's Resume
